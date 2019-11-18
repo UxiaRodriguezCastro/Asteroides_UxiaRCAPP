@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asteroids_UxiaRCAPP</string>
+    <string name="tituloAplicacion">Asteroids</string>
+    <string name="Arrancar">Play</string>
+    <string name="Configurar">Configuration</string>
+    <string name="Acercade">About</string>
+    <string name="Salir">Exit</string>
+    <string name="action_settings">Configuración</string>
+    <string name="etaercade">ASTEROID APPLICATION:Hi, I\'m Uxia Rodriguez.This program has been developed as an example to demonstrate how new activities can be launched  from the main activity.</string>
+    <string name="acercade_menu">About...</string>
+    <string name="Preferencias_menu">Preferences</string>
+    <string name="Config_menu">Configuration</string>
+</resources>
